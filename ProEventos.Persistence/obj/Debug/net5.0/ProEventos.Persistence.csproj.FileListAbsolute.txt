@@ -1,0 +1,34 @@
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+D:\cursos\Full Stack\Projeto Básico\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.sourcelink.json
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\refint\ProEventos.Persistence.dll
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+D:\cursos\Full Stack\Proeventos\back\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll

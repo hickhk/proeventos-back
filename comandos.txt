@@ -1,0 +1,6 @@
+
+dotnet ef migrations add initial -p ProEventos.Persistence -s ProEventos-Api
+
+dotnet ef database update -s ProEventos-Api
+
+dotnet ef migrations remove
